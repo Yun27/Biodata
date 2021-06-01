@@ -1,4 +1,5 @@
 public class Mahasiswa{
+	// Menginisialisasi variabel
 	private String nim;
 	private String nama;
 	private String alamat;
