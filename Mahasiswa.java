@@ -4,6 +4,7 @@ public class Mahasiswa{
 	private String nama;
 	private String alamat;
 	private String prodi;
+	private String noTelepon;
 
 	public Mahasiswa(){
 
