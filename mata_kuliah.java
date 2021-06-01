@@ -1,4 +1,7 @@
 public class mata_kuliah{
-  private String id_mk;
-	private String nama_mk;
+
+  private String Kode_MK;
+	private String Nama_MK;
+
+
 }
